@@ -1,0 +1,10 @@
+{
+  "id": 161561453,
+  "created_at": "2026-09-14T07:46:11.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["rtprep", "gidonfrischkorn.r-universe.dev"]
+}
